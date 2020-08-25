@@ -1,0 +1,17 @@
+<?php
+ 
+class pesawat{
+    var $jenis;
+    var $warna;
+ 
+   function terbang(){
+       
+   }
+ 
+   function mendarat(){
+      
+   }
+ 
+}
+ 
+?>
